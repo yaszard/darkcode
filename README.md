@@ -1,5 +1,5 @@
 # .github/workflows/latex-build.yml
-name: 📚 LaTeX PDF Builde
+name: 📚 LaTeX PDF Builder
 
 on:
   push:
