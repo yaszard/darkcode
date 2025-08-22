@@ -29,4 +29,4 @@ jobs:
       uses: actions/upload-artifact@v3
       with:
         name: compiled-pdf
-        path: output/main.pdf
+        path: output/main.pd
